@@ -47,8 +47,8 @@ li.navhover:hover a{
 
 /* Nav bar style ends */
 
-/*Heading Style starts */
-h3.fontplay {
+/*Heading Fonts Style starts */
+h3.fontplayH {
 	
 	font-family:play;
 	font-weight: bold;
@@ -58,10 +58,16 @@ h3.fontplay {
 	border-bottom: 2px solid #0099CC ;
 	text-align: center;
 }
-
 /* Heading style ends */
 
+/* Font style starts */
 
+.fontplay{
+	font-family:play;
+} 
+ 
+
+/* Font style ends */
 /*
 carousel
 */
